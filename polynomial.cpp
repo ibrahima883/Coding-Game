@@ -7,10 +7,6 @@
 
 using namespace std;
 
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
 void split(const string& poly, string& sub1, string& sub2)
 { 
     // ex: poly = (x+1)(2x^3-1) ...(x^4-x^2+6x+5) ou poly = (x+1)^2
